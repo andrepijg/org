@@ -8,6 +8,7 @@ import Equipo from "./components/Equipo";
 //import Colaborador from './components/Colaborador';
 import Footer from "./components/Footer";
 
+
 // cuando trabajamos con estados deben estar dentro de un componente o dentro de una función no pueden estar por fuera.
 
 function App() {
